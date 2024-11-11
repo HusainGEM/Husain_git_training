@@ -1,0 +1,2 @@
+Hello This is the test file for git training.
+Thank you for visiting the repository. 
